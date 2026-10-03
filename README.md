@@ -2,12 +2,6 @@
 
 
 
-## 📋 Assignment Overview
-
-This project demonstrates a rigorous approach to data preparation and hygiene using **Microsoft Excel** and **Power Query**. The dataset contains raw product information prone to common data anomalies, including missing fields, typographical errors, inconsistent text formatting, and duplicate entries.
-
-The overarching design philosophy for this project is:
-
 > **"Use evidence where available, use business rules where defined, and use `Unknown` or `Unclassified` when a value cannot be determined reliably."**
 
 ### Key Objectives
